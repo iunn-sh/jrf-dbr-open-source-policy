@@ -11,8 +11,8 @@
 brew install marp-cli
 
 # preview
-marp --server --theme theme/blavad.css --html ./
+marp --server --theme theme/blavad-purple.css --html ./
 
 # export
-marp --theme theme/blavad.css --html presentation.md
+marp --theme-set theme --html presentation.md
 ```

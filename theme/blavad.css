@@ -6,11 +6,11 @@
 @import 'gaiacss';
 
 /* Import icons */
-@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
 
 /* Import fonts */
 /*@import 'https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap';*/
-@import "https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap";
 @import "https://font.emtech.cc/css/GenKiGothicTW?weight=400,700";
 
 
@@ -142,7 +142,7 @@
   --border-xxl: 64px;
 
   --font-sans: 'GenKiGothicTW', system-ui, Helvetica, sans-serif;
-  --font-mono: "Space Mono", monospace;
+  --font-mono: "Victor Mono", monospace;
 }
 
 :root {
@@ -294,7 +294,6 @@ section .main h1+h2 {
   padding: 0;
 }
 
-
 .coverAuthor {
   color: #d8d8d8;
   font-weight: 300;
@@ -309,7 +308,6 @@ section .main h1+h2 {
   left: 4rem;
 }
 
-
 .coverFooterRight {
   position: absolute;
   bottom: 2rem;
@@ -318,7 +316,7 @@ section .main h1+h2 {
 
 .coverYear {
   color: #d8d8d8;
-  font-weight: bold;
+  /*font-weight: bold;*/
   font-size: var(--font-base);
 }
 

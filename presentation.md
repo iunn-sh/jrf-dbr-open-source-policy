@@ -54,8 +54,6 @@ footer: "數位權利基本法"
 
 ---
 
-## <!-- FIN TABLE DES MATIERES -->
-
 <!-- PARTIE 01 : Section 1 -->
 
 <div class='main'>
@@ -70,7 +68,7 @@ footer: "數位權利基本法"
 
 ---
 
-## 數位權利基本法概論
+# 數位權利基本法概論
 
 <div class='flex-horizontal'><div class='flex'>
 
@@ -117,7 +115,13 @@ footer: "數位權利基本法"
 
 ---
 
-## 公共程式 Public Code
+```
+白話文案例
+```
+
+---
+
+# 公共程式 Public Code
 
 <div class='flex-horizontal'><div class='flex'>
 
@@ -145,13 +149,19 @@ footer: "數位權利基本法"
 
 ---
 
-## 公共程式原則
+# 公共程式原則
 
 數位權利基本法 §17
 
 ---
 
-## 健全數位環境之落實
+```
+白話文案例
+```
+
+---
+
+# 健全數位環境之落實
 
 數位權利基本法 §18
 
@@ -178,11 +188,11 @@ TBD
 <!-- _paginate: false -->
 <!-- _class: cover -->
 <!-- _footer: "" -->
-<div class='coverBlockCenter'><div class='coverModuleName'>數位權利基本法</div><div class='coverCourseName important'>感謝參與</div><div class='coverAuthor'>任何想法 & 合作 contact@jrf.org.tw</div></div><img class='coverFooterLeft' height='60px' src='' />
+<div class='coverBlockCenter'><div class='coverModuleName'>數位權利基本法</div><div class='coverCourseName important'>感謝參與</div><div class='coverAuthor'>任何想法 & 合作 ✉️ <code>contact@jrf.org.tw</code></div></div><img class='coverFooterLeft' height='60px' src='' />
 
 ---
 
-## 以上 Powered By
+# 以上 Powered By
 
 Github [iunn-sh/jrf-dbr-open-source-policy](https://github.com/iunn-sh/jrf-dbr-open-source-policy) ![GitHub License](https://img.shields.io/github/license/iunn-sh/jrf-dbr-open-source-policy?style=flat-square)
 
@@ -190,7 +200,7 @@ Github [iunn-sh/jrf-dbr-open-source-policy](https://github.com/iunn-sh/jrf-dbr-o
 | --: | :-- |
 | Framework | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) |
 | Theme | [blavad/marp-blavad-theme](https://github.com/blavad/marp-blavad-theme) |
-| Font | [源起黑體 TW](https://font.emtech.cc/fonts/GenKiGothicTW) + [Space Mono](https://fonts.google.com/specimen/Space+Mono) |
+| Font | [源起黑體 TW](https://font.emtech.cc/fonts/GenKiGothicTW) + [Victor Mono](https://fonts.google.com/specimen/Space+Mono) |
 
 
 <script type='module'>

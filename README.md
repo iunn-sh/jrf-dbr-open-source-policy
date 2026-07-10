@@ -5,6 +5,7 @@
 
 * Framework [marp-team/marp-cli](https://github.com/marp-team/marp-cli)
 * Theme [blavad/marp-blavad-theme](https://github.com/blavad/marp-blavad-theme)
+* Font [源起黑體 TW](https://font.emtech.cc/fonts/GenKiGothicTW)+[Space Mono](https://fonts.google.com/specimen/Space+Mono)
 
 ```
 # install

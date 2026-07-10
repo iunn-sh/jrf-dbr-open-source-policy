@@ -9,7 +9,7 @@ footer: "數位權利基本法"
 ---
 
 <!-- PAGE DE COUVERTURE -->
-<!-- _paginate: skip -->
+<!-- _paginate: false -->
 <!-- _class: cover -->
 <!-- _footer: "" -->
 <div class='coverBlockCenter'><div class='coverModuleName'>一場以民間立法推進開源政策的行動實驗</div><div class='coverCourseName important'>數位權利基本法</div><div class='coverAuthor'>司改會數位法小組</div></div><img class='coverFooterLeft' height='60px' src='' /><div class='coverYear coverFooterLeft'>Open Source Policy</div><div class='coverYear coverFooterRight'>2026.08.09</div>
@@ -175,7 +175,7 @@ TBD
 
 ---
 
-<!-- _paginate: skip -->
+<!-- _paginate: false -->
 <!-- _class: cover -->
 <!-- _footer: "" -->
 <div class='coverBlockCenter'><div class='coverModuleName'>數位權利基本法</div><div class='coverCourseName important'>感謝參與</div><div class='coverAuthor'>任何想法 & 合作 contact@jrf.org.tw</div></div><img class='coverFooterLeft' height='60px' src='' />
@@ -190,8 +190,7 @@ Github [iunn-sh/jrf-dbr-open-source-policy](https://github.com/iunn-sh/jrf-dbr-o
 | --: | :-- |
 | Framework | [marp-team/marp-cli](https://github.com/marp-team/marp-cli) |
 | Theme | [blavad/marp-blavad-theme](https://github.com/blavad/marp-blavad-theme) |
-| Font | [IBM PlexSans TC](https://font.emtech.cc/fonts/IBMPlexSansTC) + [FiraMono](https://font.emtech.cc/fonts/FiraMono) |
-| Image | [Unsplash](https://unsplash.com/) |
+| Font | [源起黑體 TW](https://font.emtech.cc/fonts/GenKiGothicTW) + [Space Mono](https://fonts.google.com/specimen/Space+Mono) |
 
 
 <script type='module'>

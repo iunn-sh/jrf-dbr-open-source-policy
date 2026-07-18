@@ -1,10 +1,8 @@
 ---
 marp: true
 paginate: true
-
 theme: blavad-green
 title: 數位權利基本法
-
 footer: "數位權利基本法"
 ---
 
@@ -12,7 +10,18 @@ footer: "數位權利基本法"
 <!-- _paginate: false -->
 <!-- _class: cover -->
 <!-- _footer: "" -->
-<div class='coverBlockCenter'><div class='coverModuleName'>一場以民間立法推進開源政策的行動實驗</div><div class='coverCourseName important'>數位權利基本法</div><div class='coverAuthor'>司改會數位法小組</div></div><img class='coverFooterLeft' height='60px' src='' /><div class='coverYear coverFooterLeft'>Open Source Policy</div><div class='coverYear coverFooterRight'>2026.08.09</div>
+<div class='coverBlockCenter'>
+    <div class='coverModuleName'>一場以民間立法推進開源政策的行動實驗</div>
+    <div class='coverCourseName important'>數位權利基本法</div>
+    <div class='coverAuthor'>司改會數位法小組</div>
+</div>
+<div class='coverYear coverFooterLeft'>Open Source Policy</div>
+<div class='coverYear coverFooterRight'>2026.08.09</div>
+
+<div class='flex-horizontal'>
+    <div class='flex'></div>
+    <img class='coverBlockRight' height='400px' src='./media/slide.svg' />
+</div>
 
 ---
 
@@ -178,10 +187,11 @@ TBD
 
 # Game On
 
-正反方 Panel
-- 政府
-- 標案公司
-- 路過公民
+利害關係人Panel
+
+| 標案公司（乙方） | 政府（甲方） | 路過公民＋納稅人 |
+| :---: | :---: | :---: |
+| ![w:300px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f343.svg) | ![w:280px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f525.svg) | ![w:290px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f4a7.svg) |
 
 ---
 

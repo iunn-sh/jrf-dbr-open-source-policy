@@ -20,7 +20,7 @@ footer: "數位權利基本法"
 
 <div class='flex-horizontal'>
     <div class='flex'></div>
-    <img class='coverBlockRight' height='400px' src='./media/slide.svg' />
+    <img class='coverBlockRight' height='400px' src='https://github.com/iunn-sh/jrf-dbr-open-source-policy/blob/main/media/slide.svg' />
 </div>
 
 ---

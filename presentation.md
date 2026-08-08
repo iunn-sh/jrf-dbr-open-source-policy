@@ -330,7 +330,7 @@ Open Source Initiative (OSI) 2024.10.28
 | :---: | :---: | :---: | :---: |
 | ![w:150px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f343.svg) | ![w:140px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f525.svg) | ![w:145px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f4a7.svg) | ![w:145px](https://raw.githubusercontent.com/twitter/twemoji/gh-pages/svg/1f4a6.svg) |
 
-EZWAY :popcorn: 請表示意見
+EZ WAY :popcorn: 請表示意見
 
 * 延伸閱讀 — [《臺灣社交距離》App開源議題，為何演變為公關危機？](https://www.bnext.com.tw/article/63844/open-source-taiwan-ailabs-2021)
 * 延伸閱讀 — [【深入衛福部委外計畫授權爭議事件始末】政府機構擁抱開源的一堂必修課](https://www.ithome.com.tw/news/168685)

@@ -48,7 +48,7 @@ footer: "數位權利基本法"
 
 # 關於我們 About
 
-## 民間司法改革基金會
+## [民間司法改革基金會](https://www.jrf.org.tw/keywords/12)
 
 數位法制專組 Digital Law Taskforce
 - Code of Law

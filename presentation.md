@@ -248,15 +248,31 @@ Open Source Initiative (OSI) 2024.10.28
 
 科技新報 2026.07.25
 
-由輝達、微軟、Meta、IBM等約25家科技企業及組織，共同發布《Open Weights and American AI Leadership》公開信，呼籲美國政府支持開放權重（Open-weight）AI模型發展，並避免過早限制可供下載的AI模型。連署企業認為，美國AI的領導地位，不應只建立在少數封閉模型，而是打造完整且具競爭力的AI生態系，讓更多企業、研究機構及開發者參與創新。
+由輝達、微軟、Meta、IBM等約25家科技企業及組織，共同發布[《Open Weights and American AI Leadership》公開信](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf)，呼籲美國政府支持開放權重（Open-weight）AI模型發展，並避免過早限制可供下載的AI模型。連署企業認為，美國AI的領導地位，不應只建立在少數封閉模型，而是打造完整且具競爭力的AI生態系，讓更多企業、研究機構及開發者參與創新。
 
 **開放權重模型與傳統開源（Open Source）並不完全相同。完整開源通常會公開程式碼、訓練資料、模型權重及開發流程；開放權重則主要提供模型訓練完成後的權重參數，讓開發者可自行下載、部署及微調模型，但不一定公開訓練資料、完整程式碼或訓練方法。**
 
-聯署企業認為，此舉可降低AI開發門檻與成本，帶動晶片、雲端、軟體及應用服務等產業競爭，加速AI技術落地。
+連署企業認為，此舉可降低AI開發門檻與成本，帶動晶片、雲端、軟體及應用服務等產業競爭，加速AI技術落地。
 
 不過，開放權重模型也伴隨安全與智慧財產權疑慮。由於模型權重可供下載與修改，外界擔心可能遭用於生成惡意內容、繞過安全機制，甚至透過模型蒸餾複製其他模型能力。
 
 公開信則主張，讓更多研究人員共同檢視模型，有助於提早發現漏洞、提升系統透明度；至於侵權或惡意使用，應透過法律及商業機制規範，而非全面限制開放權重模型發展。
+
+---
+
+## [Anthropic終於表態：真正該限制的不是開放權重](https://techorange.com/2026/07/28/anthropics-position-on-open-weights-models/)
+
+科技報橘 2026.07.28
+
+上週五，NVIDIA、微軟、Meta等數十家科技公司連署一封公開信，呼籲政策制定者不要對開放模型祭出「過早的限制」，**由NVIDIA執行長黃仁勳帶頭倡議；OpenAI稍後也加入連署，Anthropic則沒有簽署**。
+
+[《Bloomberg》報導](https://www.bloomberg.com/news/articles/2026-07-28/anthropic-s-amodei-rejects-open-model-ban-but-calls-for-testing)，正是這個缺席，讓包括前白宮AI主管David Sacks在內的部分人士質疑，Anthropic是想藉打壓中國對手，來保護自家封閉模型的商業模式。而[Amodei這篇部落格](https://www.anthropic.com/news/position-open-weights-models)，正是對這類指控的正面回應。...
+
+對於那封公開信，Amodei並非全盤否定。他甚至形容，不具危險能力的開放權重模型是一種「公共財」；也同意開放權重能擴大AI經濟的參與、在某些場景強化競爭，並讓客戶握有更多掌控權，而蒸餾問題應以針對性的法律與商業框架處理。**但他不認同信中的核心假設：開放權重會讓防護機制更容易建立，或讓防禦方比攻擊方更有利。**
+
+Amodei以生物領域為例，指出這裡可能存在**明顯的「攻守不對稱」：夠強大的模型或許能用容易取得的材料，快速將具大流行潛力的病毒武器化，而建立防禦在最好的情況下仍是耗時數年的工程**。他主張，這類問題該由嚴謹的釋出前測試來實證回答，而非事先假定。
+
+除了沒有簽署那封公開信，產業分裂也出現在另一條線上。據[《The Verge》報導](https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity)，就在Amodei發文同日，NVIDIA、微軟、SpaceX 等公司另組「開放安全 AI 聯盟」（Open Secure AI Alliance），主張防禦前沿模型的攻擊需要開放工具；OpenAI、Google與Anthropic三家主要美國實驗室同樣缺席。當開放與封閉的界線被反覆劃過，這場爭論的焦點，正從「模型該不該開放」，轉向「具危險能力的前沿模型該如何被治理」。
 
 ---
 
@@ -304,7 +320,7 @@ Open Source Initiative (OSI) 2024.10.28
 
 公視新聞網 2026.08.04
 
-關務署長彭英偉解釋，過去進口貨物只能使用紙本委任方式申報，民眾需向報關業者提供身分證影本、地址等相關資訊，但因為頻繁出現虛報、冒名等違規行為，因此關務署自2018年起鬆綁相關法規，放寬進口快遞貨物簡易申報可以線上委任方式執行。
+關務署長彭英偉解釋，過去進口貨物只能使用**紙本委任**方式申報，民眾需向報關業者提供身分證影本、地址等相關資訊，但因為頻繁出現虛報、冒名等違規行為，因此關務署自2018年起鬆綁相關法規，放寬進口快遞貨物簡易申報可以**線上委任**方式執行。
 
 關貿公司因此自行建置EZ WAY，事先綁定使用者的手機號碼與身分證字號，因此民眾使用EZ WAY申報進口貨物時，僅需提供手機號碼就可報關，無需再提供身分證號碼給物流業者。...
 
@@ -336,19 +352,35 @@ EZ WAY :popcorn: 請表示意見
 
 # AI時代，還缺什麼？
 
+<div class='flex-horizontal'><div class='flex'>
+
 規範 / 指引
 - [政府資訊公開法](https://law.moj.gov.tw/LawClass/LawAll.aspx?PCode=I0020026) 2005.12.28
 - [政府資料開放授權條款－第1版](https://data.gov.tw/license) 2015.07.27
+- [行政院及所屬各機關開放政府聯絡人實施要點](https://po.pdis.nat.gov.tw/zh-TW/directions/) 2017.12.04
 - [行政院及所屬各級機關政府資料開放作業原則](https://law.moda.gov.tw/LawContent.aspx?id=FL069327) 2023.01.19
+- [政府網站服務管理規範](https://www.webguide.nat.gov.tw/guidelines) 2024.03.15
+- [國家科學及技術委員會政府資料開放管理規範](https://law.nstc.gov.tw/LawContent.aspx?id=GL000325) 2024.05.16
 - [臺灣開放政府國家行動方案](https://www.ey.gov.tw/Page/5A8A0CB5B41DA11E/1d54cc87-5a13-45bd-b679-d901abbb0475) 2025.04.02
 - [臺灣主權AI訓練語料授權條款－第1版](https://taic.moda.gov.tw/content/license) 2026.02.20
 - [公部門開源軟體應用參考手冊](https://moda.gov.tw/digital-affairs/democracy-network/services/19352) 2026.04.02
 
-如果我是
+</div><div class='flex'>
+
+<div class='block warning'>
+
+<i class='block-icon fas fa-user'></i>
+
+# 如果我是
+
 - 政府（承辦）
 - 標案公司（人員）
 - 納稅人
 - 民間人士（團體）：立法倡議 :arrow_left:
+
+</div>
+
+</div></div>
 
 <!-- X 己願他力 -->
 
